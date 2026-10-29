@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MacUIRequiredDeviceCapabilities</key>
+	<dict>
+		<key>arm64</key>
+		<true/>
+		<key>opengles-2</key>
+		<true/>
+	</dict>
+	<key>UIRequiredDeviceCapabilities</key>
+	<dict>
+		<key>opengles-2</key>
+		<true/>
+	</dict>
+	<key>appleId</key>
+	<string>oldappsgamer4th@yahoo.com</string>
+	<key>artistId</key>
+	<integer>413251712</integer>
+	<key>artistName</key>
+	<string>MetaQuotes Software Corp.</string>
+	<key>bundleDisplayName</key>
+	<string>MetaTrader 4</string>
+	<key>bundleShortVersionString</key>
+	<string>4.0.1293</string>
+	<key>bundleVersion</key>
+	<string>4</string>
+	<key>com.apple.iTunesStore.downloadInfo</key>
+	<dict>
+		<key>accountInfo</key>
+		<dict>
+			<key>AccountStoreFront</key>
+			<string>143441-1,32</string>
+			<key>AppleID</key>
+			<string>oldappsgamer4th@yahoo.com</string>
+			<key>DSPersonID</key>
+			<integer>18226843990</integer>
+			<key>DownloaderID</key>
+			<integer>0</integer>
+			<key>FamilyID</key>
+			<integer>0</integer>
+			<key>FirstName</key>
+			<string>OldApps</string>
+			<key>LastName</key>
+			<string>Gamer 4th</string>
+			<key>PurchaserID</key>
+			<integer>18226843990</integer>
+			<key>UserName</key>
+			<string>OldApps Gamer 4th</string>
+		</dict>
+		<key>purchaseDate</key>
+		<string>2023-03-24T02:27:32Z</string>
+	</dict>
+	<key>copyright</key>
+	<string>© 2001-2022 MetaQuotes Software Corp.</string>
+	<key>drmVersionNumber</key>
+	<integer>0</integer>
+	<key>fileExtension</key>
+	<string>.app</string>
+	<key>gameCenterEnabled</key>
+	<false/>
+	<key>gameCenterEverEnabled</key>
+	<false/>
+	<key>genre</key>
+	<string>Finance</string>
+	<key>genreId</key>
+	<integer>6015</integer>
+	<key>hasOrEverHasHadIAP</key>
+	<false/>
+	<key>itemId</key>
+	<integer>496212596</integer>
+	<key>itemName</key>
+	<string>MetaTrader 4</string>
+	<key>kind</key>
+	<string>software</string>
+	<key>playlistName</key>
+	<string>MetaQuotes Software Corp.</string>
+	<key>product-type</key>
+	<string>ios-app</string>
+	<key>purchaseDate</key>
+	<date>2023-03-24T02:27:32Z</date>
+	<key>rating</key>
+	<dict>
+		<key>content</key>
+		<string>Advisory.NO.GAMBLING_CONTESTS , Advisory.NO.TRUE_GAMBLING and Advisory.NO.UNRESTRICTED_WEB_ACCESS</string>
+		<key>label</key>
+		<string>4+</string>
+		<key>rank</key>
+		<integer>100</integer>
+		<key>system</key>
+		<string>itunes-games</string>
+	</dict>
+	<key>releaseDate</key>
+	<string>2012-02-02T01:58:10Z</string>
+	<key>requiresRosetta</key>
+	<false/>
+	<key>runsOnAppleSilicon</key>
+	<true/>
+	<key>runsOnIntel</key>
+	<false/>
+	<key>s</key>
+	<integer>143441</integer>
+	<key>software-platform</key>
+	<string>ios</string>
+	<key>softwareIcon57x57URL</key>
+	<string>https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/cf/fa/3a/cffa3aa2-99e0-2682-fc6d-d0c478c1cd49/icon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/114x114bb.jpg</string>
+	<key>softwareIconNeedsShine</key>
+	<false/>
+	<key>softwareSupportedDeviceIds</key>
+	<array>
+		<integer>2</integer>
+		<integer>9</integer>
+		<integer>4</integer>
+	</array>
+	<key>softwareVersionBundleId</key>
+	<string>net.metaquotes.MetaTrader4Terminal</string>
+	<key>softwareVersionExternalIdentifier</key>
+	<integer>839350860</integer>
+	<key>softwareVersionExternalIdentifiers</key>
+	<array>
+		<integer>845167281</integer>
+		<integer>846907773</integer>
+		<integer>847451471</integer>
+		<integer>850394797</integer>
+		<integer>850706303</integer>
+		<integer>852259898</integer>
+		<integer>855436305</integer>
+	</array>
+	<key>storeCohort</key>
+	<string>10|date=1679623200000&amp;sf=143441&amp;pgtp=Search&amp;pgid=6922f59b-54f8-4c06-a7ef-7551a321bfad&amp;prpg=Genre_25204</string>
+	<key>userName</key>
+	<string>OldApps Gamer 4th</string>
+	<key>vendorId</key>
+	<integer>420190</integer>
+	<key>versionRestrictions</key>
+	<integer>16843008</integer>
+</dict>
+</plist>

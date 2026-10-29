@@ -1,0 +1,53 @@
+<html>
+<!--SUBJECT=Vítejte!-->
+<head>
+<title>Vítejte!</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<style type="text/css">
+body { background-color: #ffffff; font-family: Tahoma, Arial, Helvetica, sans-serif; margin: 10px; color: #404040}
+p, pre, table, ul {font-size: 13px; font-family: Tahoma, Arial, Helvetica, sans-serif; margin: 0 0 10px 0; text-align: justify; line-height: 135%;}
+h1 {font-size: 25px; font-weight: normal; margin: 0 0 10px 0;} 
+a {color: #42639c;}
+p.image {text-align: center; margin: 20px 0;}
+p.image img {text-align: center; max-width: 100%; height: auto;}
+
+.table th {font-weight: normal; text-align: right; padding: 1px 2px 1px 0; }
+.table td {font-weight: bold; text-align: left; padding: 1px 2px; }
+
+.footer {display: block; list-style: none; overflow: hidden; padding: 0; margin: 0; text-align: center;}
+.footer li {display: inline-block; margin: 20px 15px; line-height: 100%; *display: inline; *zoom: 1;}
+.footer li a {display: inline-block; *display: inline; *zoom: 1;}
+
+.footer li.inline {width: 80px; text-align: center; }
+.footer li.inline a {padding: 70px 5px 5px 5px; text-align: center; }
+.footer li.inline.appstore a {background: url(https://c.mql5.com/external/emails/mt4/v1/icons.png) no-repeat 14px 0;}
+.footer li.inline.googleplay a {background: url(https://c.mql5.com/external/emails/mt4/v1/icons.png) no-repeat -116px 0;}
+
+.footer li.button a {background-color: #00CA7C; color: #FFF; font-size: 18px; text-align: center; padding: 10px 25px; text-decoration: none; line-height: 125%; }
+.footer li.button a:hover {background-color: #00DF87;}
+</style>
+</head>
+
+<body>
+<h1>Vítejte!</h1>
+
+<p>Vybrali jste si všestranou a výkonnou obchodní platformu. Provádějte obchodní operace, <a target="_blank" href="https://www.mql5.com/en/signals?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=cs.mail.welcome">kopírujte obchody</a> ostatních obchodníků, zakupte roboty přiraveny k použití z <a target="_blank" href="https://www.mql5.com/en/market?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=cs.mail.welcome">Trhu</a> nebo si objednejte obchodní aplikace s požadovanými funkcemi od <a target="_blank" href="https://www.mql5.com/en/job?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=cs.mail.welcome">zkušených vývojářů</a>.</p>
+
+<p class="image"><img src="https://c.mql5.com/external/emails/mt4/v1/welcome2-en.jpg" alt="MetaTrader 4 obchodní platforma" title="MetaTrader 4 obchodní platforma" width="750" height="486"></p>
+
+<p>Funkce platformy:</p>
+
+<ul class="advantages">
+ <li>Všechny typy obchodních příkazů</li>
+ <li>30 technických indikátorů a 24 analytických nástrojů</li>
+ <li>9 grafických časových rámců, od jedné minuty do jednoho měsíce</li>
+ <li>MQL5 vývojářské prostředí kde můžete vytvořit obchodní roboty, vlastní technické indikátory a další obchodní aplikace</li>
+ <li>Největší <a target="_blank" href="https://www.mql5.com/en/market?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=cs.mail.welcome">obchod s obchodními aplikacemi</a> kde můžete zakoupit obchodní roboty a indikátory připravené k použití</li>
+ <li>Služba <a target="_blank" href="https://www.mql5.com/en/signals?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=cs.mail.welcome">Obchodní Signály</a> která umožňuje se pŕipojit k ostatním obchodníkům a kopírovat jejich obchody</li>
+ <li><a target="_blank" href="https://www.mql5.com/en/vps?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=cs.mail.welcome">Zabudovaný Virtuální Hosting</a> pro 24/7 operace vašich obchodních robotů a odběrů signálu</li>
+ <li>Pohodlná <a target="_blank" href="https://www.mql5.com/en/job?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=cs.mail.welcome">Freelance služba</a> kde můžete objednat obchodní roboty od profesionálních vývojářů</li>
+<li>Mobilní aplikace pro <a target="_blank" href="https://download.mql5.com/cdn/mobile/mt4/ios?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=cs.mail.welcome">iOS</a> a <a target="_blank" href="https://download.mql5.com/cdn/mobile/mt4/android?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=cs.mail.welcome">Android</a></li>
+</ul>
+
+<p>Použijte bezkonkurenční funkčnost pro zlepšení vaší obchodní zkušenosti!</p>
+</body></html>

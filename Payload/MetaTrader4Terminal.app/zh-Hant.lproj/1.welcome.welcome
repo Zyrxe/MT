@@ -1,0 +1,53 @@
+<html>
+<!--SUBJECT=歡迎使用！-->
+<head>
+<title>歡迎使用！</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<style type="text/css">
+body { background-color: #ffffff; font-family: Tahoma, Arial, Helvetica, sans-serif; margin: 10px; color: #404040}
+p, pre, table, ul {font-size: 13px; font-family: Tahoma, Arial, Helvetica, sans-serif; margin: 0 0 10px 0; text-align: justify; line-height: 135%;}
+h1 {font-size: 25px; font-weight: normal; margin: 0 0 10px 0;} 
+a {color: #42639c;}
+p.image {text-align: center; margin: 20px 0;}
+p.image img {text-align: center; max-width: 100%; height: auto;}
+
+.table th {font-weight: normal; text-align: right; padding: 1px 2px 1px 0; }
+.table td {font-weight: bold; text-align: left; padding: 1px 2px; }
+
+.footer {display: block; list-style: none; overflow: hidden; padding: 0; margin: 0; text-align: center;}
+.footer li {display: inline-block; margin: 20px 15px; line-height: 100%; *display: inline; *zoom: 1;}
+.footer li a {display: inline-block; *display: inline; *zoom: 1;}
+
+.footer li.inline {width: 80px; text-align: center; }
+.footer li.inline a {padding: 70px 5px 5px 5px; text-align: center; }
+.footer li.inline.appstore a {background: url(https://c.mql5.com/external/emails/mt4/v1/icons.png) no-repeat 14px 0;}
+.footer li.inline.googleplay a {background: url(https://c.mql5.com/external/emails/mt4/v1/icons.png) no-repeat -116px 0;}
+
+.footer li.button a {background-color: #00CA7C; color: #FFF; font-size: 18px; text-align: center; padding: 10px 25px; text-decoration: none; line-height: 125%; }
+.footer li.button a:hover {background-color: #00DF87;}
+</style>
+</head>
+
+<body>
+<h1>歡迎使用！</h1>
+
+<p>您已選擇一個功能豐富，性能強大的交易平臺。執行交易操作，<a target="_blank" href="https://www.mql5.com/zh/signals?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=zh.mail.welcome">複製其他交易者的交易</a>，從<a target="_blank" href="https://www.mql5.com/zh/market?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=zh.mail.welcome">市場</a>購買現有的EA交易或訂購來自<a target="_blank" href="https://www.mql5.com/zh/job?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=zh.mail.welcome">經驗豐富的開發人員</a>的具有所需特性的交易應用程式。</p>
+
+<p class="image"><img src="https://c.mql5.com/external/emails/mt4/v1/welcome2-en.jpg" alt="MetaTrader 4交易平臺" title="MetaTrader 4交易平臺" width="750" height="486"></p>
+
+<p>平臺功能包括：</p>
+
+<ul class="advantages">
+ <li>全部交易訂單類型</li>
+ <li>30 技術指標和24分析工具</li>
+ <li>9圖表時間週期，從一分鐘圖到一個月圖</li>
+ <li>MQL5開發環境，在這裡您可以創建EA交易，自訂技術指標和其他交易應用</li>
+ <li>最大的<a target="_blank" href="https://www.mql5.com/zh/market?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=zh.mail.welcome">交易應用市場</a>，在這裡您可以購買現有的EA交易和指標</li>
+ <li><a target="_blank" href="https://www.mql5.com/zh/signals?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=zh.mail.welcome">交易信號</a>服務，使您連接到其他交易者並複製他們的交易</li>
+ <li><a target="_blank" href="https://www.mql5.com/zh/vps?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=zh.mail.welcome">內置虛擬主機</a>服務，為您的EA交易和信號訂閱提供24/7服務</li>
+ <li>便利的<a target="_blank" href="https://www.mql5.com/zh/job?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=zh.mail.welcome">自由職業者服務</a>，在這裡您可以訂購來自專業開發人員的EA交易 </li>
+<li>移動應用程式<a target="_blank" href="https://download.mql5.com/cdn/mobile/mt4/ios?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=zh.mail.welcome">iOS版</a>和<a target="_blank" href="https://download.mql5.com/cdn/mobile/mt4/android?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=zh.mail.welcome">Android版</a></li>
+</ul>
+
+<p>使用這無與倫比的豐富功能，提升您的交易體驗！</p>
+</body></html>

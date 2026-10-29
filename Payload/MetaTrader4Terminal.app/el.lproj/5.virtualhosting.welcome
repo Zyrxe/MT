@@ -1,0 +1,53 @@
+<html>
+<!--SUBJECT=Ενσωματωμένη εικονική φιλοξενία-->
+<head>
+<title>Ενσωματωμένη εικονική φιλοξενία</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<style type="text/css">
+body { background-color: #ffffff; font-family: Tahoma, Arial, Helvetica, sans-serif; margin: 10px; color: #404040}
+p, pre, table, ul {font-size: 13px; font-family: Tahoma, Arial, Helvetica, sans-serif; margin: 0 0 10px 0; text-align: justify; line-height: 135%;}
+h1 {font-size: 25px; font-weight: normal; margin: 0 0 10px 0;} 
+a {color: #42639c;}
+p.image {text-align: center; margin: 20px 0;}
+p.image img {text-align: center; max-width: 100%; height: auto;}
+
+.table th {font-weight: normal; text-align: right; padding: 1px 2px 1px 0; }
+.table td {font-weight: bold; text-align: left; padding: 1px 2px; }
+
+.footer {display: block; list-style: none; overflow: hidden; padding: 0; margin: 0; text-align: center;}
+.footer li {display: inline-block; margin: 20px 15px; line-height: 100%; *display: inline; *zoom: 1;}
+.footer li a {display: inline-block; *display: inline; *zoom: 1;}
+
+.footer li.inline {width: 80px; text-align: center; }
+.footer li.inline a {padding: 70px 5px 5px 5px; text-align: center; }
+.footer li.inline.appstore a {background: url(https://c.mql5.com/external/emails/mt4/v1/icons.png) no-repeat 14px 0;}
+.footer li.inline.googleplay a {background: url(https://c.mql5.com/external/emails/mt4/v1/icons.png) no-repeat -116px 0;}
+
+.footer li.button a {background-color: #00CA7C; color: #FFF; font-size: 18px; text-align: center; padding: 10px 25px; text-decoration: none; line-height: 125%; }
+.footer li.button a:hover {background-color: #00DF87;}
+</style>
+</head>
+
+<body>
+<h1>Ενσωματωμένη εικονική φιλοξενία</h1>
+
+<p>Οι συναλλαγές των ρομπότ και των παρόχων σήματος συναλλαγών μπορούν τώρα να εκτελεστούν στον λογαριασμό σας όλο το εικοσιτετράωρο, ακόμη και αν ο υπολογιστής σας είναι απενεργοποιημένος. Δημιουργήστε ένα αντίγραφο της πλατφόρμας σας σε έναν ασφαλή εικονικό διακομιστή και και τρέξτε το 24/7.</p>
+
+<p class="image"><img src="https://c.mql5.com/external/emails/mt4/v1/virtual-hosting-en.jpg" alt="Ενσωματωμένη εικονική φιλοξενία" title="Ενσωματωμένη εικονική φιλοξενία" width="750" height="613"></p>
+
+<p>Γνωρίστε την υπηρεσία  <a target="_blank" href="https://www.mql5.com/en/vps?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=el.mail.virtualhosting">MetaTrader VPS</a>: μια εξειδικευμένη εικονική υπηρεσία φιλοξενίας για τους εμπόρους συναλλαγών. Ενοικιάστε έναν εικονικό διακομιστή κατευθείαν από την πλατφόρμα με μερικά κλικ.</p>
+
+<p class="image"><img src="https://c.mql5.com/external/emails/mt4/v1/virtual-hosting-wizard-ru.png" alt="Virtual Hosting Wizard" title="Virtual Hosting Wizard" width="661" height="492"></p>
+
+<p>Οι διακομιστές της υπηρεσίας Virtual Hosting βρίσκονται κοντά στους διακομιστές μεσιτών παροχής υπηρεσιών συναλλαγών. Ανεξάρτητα από τον μεσίτη συναλλαγών σας, το MetaTrader VPS σας προσφέρει τις καλύτερες συνθήκες εκτέλεσης συναλλαγών. Ανοίξτε τον Οδηγό Virtual Hosting από το μενού context του λογαριασμού διαπραγμάτευσης σας και η πλατφόρμα θα σας προσφέρει τον κατάλληλο διακομιστή με ελάχιστες καθυστερήσεις στο δίκτυο.</p>
+
+<p>Θέλετε να μάθετε περισσότερα για την υπηρεσία Virtual Hosting; Παρακολουθήστε τα <a target="_blank" href="https://youtu.be/yd3ar2y0pCo?list=PLltlMLQ7OLeKRRhrpy-pZ6REWYUf6W3SV?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=el.mail.virtualhosting">μαθήματα σε βίντεο</a>: μπορείτε να μάθετε τα πάντα για την υπηρεσία σε 6 λεπτά.</p>
+
+<p>Παρέχεται δωρεάν δοκιμαστική περίοδος 24 ωρών. Αυτή είναι μια εξαιρετική ευκαιρία για να αξιολογήσετε την υπηρεσία χρησιμοποιώντας το λογαριασμό και τον μεσίτη σας.</p>
+
+<p>Η εικονική υπηρεσία φιλοξενίας είναι η ακριβής λύση που χρειάζεστε!</p>
+
+<ul class="footer">
+<li class="button"><a href="https://www.mql5.com/en/vps?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=el.mail.virtualhosting" target="_blank">Νοικιάστε ένα VPS τώρα</a></li>
+</ul>
+</body></html>

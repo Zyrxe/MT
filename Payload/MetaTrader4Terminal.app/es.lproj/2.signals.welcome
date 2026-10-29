@@ -1,0 +1,48 @@
+<html>
+<!--SUBJECT=Señales comerciales y copiado de transacciones-->
+<head>
+<title>Señales comerciales y copiado de transacciones</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<style type="text/css">
+body { background-color: #ffffff; font-family: Tahoma, Arial, Helvetica, sans-serif; margin: 10px; color: #404040}
+p, pre, table, ul {font-size: 13px; font-family: Tahoma, Arial, Helvetica, sans-serif; margin: 0 0 10px 0; text-align: justify; line-height: 135%;}
+h1 {font-size: 25px; font-weight: normal; margin: 0 0 10px 0;} 
+a {color: #42639c;}
+p.image {text-align: center; margin: 20px 0;}
+p.image img {text-align: center; max-width: 100%; height: auto;}
+
+.table th {font-weight: normal; text-align: right; padding: 1px 2px 1px 0; }
+.table td {font-weight: bold; text-align: left; padding: 1px 2px; }
+
+.footer {display: block; list-style: none; overflow: hidden; padding: 0; margin: 0; text-align: center;}
+.footer li {display: inline-block; margin: 20px 15px; line-height: 100%; *display: inline; *zoom: 1;}
+.footer li a {display: inline-block; *display: inline; *zoom: 1;}
+
+.footer li.inline {width: 80px; text-align: center; }
+.footer li.inline a {padding: 70px 5px 5px 5px; text-align: center; }
+.footer li.inline.appstore a {background: url(https://c.mql5.com/external/emails/mt4/v1/icons.png) no-repeat 14px 0;}
+.footer li.inline.googleplay a {background: url(https://c.mql5.com/external/emails/mt4/v1/icons.png) no-repeat -116px 0;}
+
+.footer li.button a {background-color: #00CA7C; color: #FFF; font-size: 18px; text-align: center; padding: 10px 25px; text-decoration: none; line-height: 125%; }
+.footer li.button a:hover {background-color: #00DF87;}
+</style>
+</head>
+
+<body>
+<h1>Señales comerciales y copiado de transacciones</h1>
+
+<p>Copie las transacciones de tráders directamente en su plataforma. En el escaparate se muestran miles de señales tanto gratuitas como de pago con diferentes características comerciales. Elija al <a href="https://www.mql5.com/es/signals?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=es.mail.signals" target="_blank">proveedor</a> deseado y suscríbase a la señal con un par de clics: su plataforma repetirá automáticamente las transacciones del proveedor.</p>
+
+<p class="image"><img src="https://c.mql5.com/external/emails/mt4/v1/signals-en.jpg" alt="Señales comerciales y copiado de operaciones en MetaTrader 4" title="Señales comerciales y copiado de operaciones en MetaTrader 4" width="747" height="502"></p>
+
+<p>Podrá leer información sobre la suscripción a las señales <a href="https://www.mql5.com/es/articles/523?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=es.mail.signals" target="_blank">aquí</a>. Para obtener más información sobre el principio de funcionamiento y las ventajas del servicio, lea <a href="https://www.mql5.com/es/articles/618?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=es.mail.signals" target="_blank">este artículo</a>.</p>
+
+<p>Además, podrá ver <a target="_blank" href="https://youtu.be/ntu6pZRopq4?list=PLltlMLQ7OLeLZpxDnCMKz1tBlPcUminCT?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=es.mail.signals">un vídeo instructivo sobre señales comerciales</a> y saber en solo 15 minutos todo lo necesario sobre el trading social: cómo elegir una señal, analizar sus características comerciales, formalizar la suscripción y valorar su efectividad.</p>
+
+<p>¡<a href="https://www.mql5.com/es/signals?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=es.mail.signals" target="_blank">Elija la señal que necesite</a> y copie las transacciones de otros tráders!</p>
+
+
+<ul class="footer">
+<li class="button"><a href="https://www.mql5.com/es/signals?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=es.mail.signals" target="_blank" title="Seleccione una señal comercial para el copiado de transacciones">Elegir una señal</a></li>
+</ul>
+</body></html>

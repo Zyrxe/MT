@@ -1,0 +1,53 @@
+<html>
+<!--SUBJECT=ยินดีต้อนรับ!-->
+<head>
+<title>ยินดีต้อนรับ!</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<style type="text/css">
+body { background-color: #ffffff; font-family: Tahoma, Arial, Helvetica, sans-serif; margin: 10px; color: #404040}
+p, pre, table, ul {font-size: 13px; font-family: Tahoma, Arial, Helvetica, sans-serif; margin: 0 0 10px 0; text-align: justify; line-height: 135%;}
+h1 {font-size: 25px; font-weight: normal; margin: 0 0 10px 0;} 
+a {color: #42639c;}
+p.image {text-align: center; margin: 20px 0;}
+p.image img {text-align: center; max-width: 100%; height: auto;}
+
+.table th {font-weight: normal; text-align: right; padding: 1px 2px 1px 0; }
+.table td {font-weight: bold; text-align: left; padding: 1px 2px; }
+
+.footer {display: block; list-style: none; overflow: hidden; padding: 0; margin: 0; text-align: center;}
+.footer li {display: inline-block; margin: 20px 15px; line-height: 100%; *display: inline; *zoom: 1;}
+.footer li a {display: inline-block; *display: inline; *zoom: 1;}
+
+.footer li.inline {width: 80px; text-align: center; }
+.footer li.inline a {padding: 70px 5px 5px 5px; text-align: center; }
+.footer li.inline.appstore a {background: url(https://c.mql5.com/external/emails/mt4/v1/icons.png) no-repeat 14px 0;}
+.footer li.inline.googleplay a {background: url(https://c.mql5.com/external/emails/mt4/v1/icons.png) no-repeat -116px 0;}
+
+.footer li.button a {background-color: #00CA7C; color: #FFF; font-size: 18px; text-align: center; padding: 10px 25px; text-decoration: none; line-height: 125%; }
+.footer li.button a:hover {background-color: #00DF87;}
+</style>
+</head>
+
+<body>
+<h1>ยินดีต้อนรับ!</h1>
+
+<p>คุณได้เลือกแพลตฟอร์มการเทรดที่เอนกประสงค์และมีประสิทธิภาพ ทำการเทรด <a target="_blank" href="https://www.mql5.com/en/signals?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=th.mail.welcome">คัดลอกการเทรด</a>ของเทรดเดอร์คนอื่น ซื้อโรบอทสำเร็จรูปจาก <a target="_blank" href="https://www.mql5.com/en/market?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=th.mail.welcome">Market</a> หรือสั่งทำแอปการซื้อขายที่มีคุณสมบัติที่ต้องการจาก<a target="_blank" href="https://www.mql5.com/en/job?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=th.mail.welcome">ผู้พัฒนาที่มีประสบการณ์</a></p>
+
+<p class="image"><img src="https://c.mql5.com/external/emails/mt4/v1/welcome2-en.jpg" alt="แพลตฟอร์มการเทรด MetaTrader 4" title="แพลตฟอร์มการเทรด MetaTrader 4" width="750" height="486"></p>
+
+<p>คุณลักษณะของแพลตฟอร์ม:</p>
+
+<ul class="advantages">
+ <li>คำสั่งการเทรดทุกประเภท</li>
+ <li>30 อินดิเคเตอร์ทางเทคนิคและ 24 เครื่องมือวิเคราะห์</li>
+ <li>9 ไทม์เฟรมของกราฟ ตั้งแต่หนึ่งนาทีถึงหนึ่งเดือน</li>
+ <li>Environment ของการพัฒนาโปรแกรม MQL5 ซึ่งคุณสามารถสร้างโรบอทการเทรด อินดิเคเตอร์แบบกำหนดเอง และแอปพลิเคชั่นการเทรดอื่นๆ</li>
+ <li><a target="_blank" href="https://www.mql5.com/en/market?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=th.mail.welcome">ร้านของแอปการเทรด</a>ที่ใหญ่ที่สุด ซึ่งคุณสามารถซื้อโรบอทสำเร็จรูปและอินดิเคเตอร์</li>
+ <li>บริการ <a target="_blank" href="https://www.mql5.com/en/signals?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=th.mail.welcome">Signal การเทรด</a> ซึ่งทำให้คุณสามารถเชื่อมต่อกับเทรดเดอร์คนอื่นและคัดลอกการเทรด</li>
+ <li>บริการ <a target="_blank" href="https://www.mql5.com/en/vps?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=th.mail.welcome">Virtual Hosting สำเร็จรูป</a> เพื่อการทำงานตลอด 24 ชั่วโมงทุกวัน ของโรบอทเทรดและการสมัครใช้งาน signal ของคุณ</li>
+ <li><a target="_blank" href="https://www.mql5.com/en/job?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=th.mail.welcome">บริการ Freelance</a> ที่สะดวก ซึ่งคุณสามารถสั่งทำโรบอทการเทรดจากผู้พัฒนามืออาชีพ</li>
+<li>แอปพลิเคชั่นมือถือสำหรับ <a target="_blank" href="https://download.mql5.com/cdn/mobile/mt4/ios?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=th.mail.welcome">iOS</a> และ <a target="_blank" href="https://download.mql5.com/cdn/mobile/mt4/android?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=th.mail.welcome">แอนดรอยด์</a></li>
+</ul>
+
+<p>ใช้ฟังก์ชั่นการใช้งานที่เหนือกว่าเพื่อพัฒนาประสบการณ์การเทรดของคุณ!</p>
+</body></html>

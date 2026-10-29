@@ -1,0 +1,48 @@
+<html>
+<!--SUBJECT=İşlem Sinyalleri and kopya işlemler-->
+<head>
+<title>İşlem Sinyalleri and kopya işlemler</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<style type="text/css">
+body { background-color: #ffffff; font-family: Tahoma, Arial, Helvetica, sans-serif; margin: 10px; color: #404040}
+p, pre, table, ul {font-size: 13px; font-family: Tahoma, Arial, Helvetica, sans-serif; margin: 0 0 10px 0; text-align: justify; line-height: 135%;}
+h1 {font-size: 25px; font-weight: normal; margin: 0 0 10px 0;} 
+a {color: #42639c;}
+p.image {text-align: center; margin: 20px 0;}
+p.image img {text-align: center; max-width: 100%; height: auto;}
+
+.table th {font-weight: normal; text-align: right; padding: 1px 2px 1px 0; }
+.table td {font-weight: bold; text-align: left; padding: 1px 2px; }
+
+.footer {display: block; list-style: none; overflow: hidden; padding: 0; margin: 0; text-align: center;}
+.footer li {display: inline-block; margin: 20px 15px; line-height: 100%; *display: inline; *zoom: 1;}
+.footer li a {display: inline-block; *display: inline; *zoom: 1;}
+
+.footer li.inline {width: 80px; text-align: center; }
+.footer li.inline a {padding: 70px 5px 5px 5px; text-align: center; }
+.footer li.inline.appstore a {background: url(https://c.mql5.com/external/emails/mt4/v1/icons.png) no-repeat 14px 0;}
+.footer li.inline.googleplay a {background: url(https://c.mql5.com/external/emails/mt4/v1/icons.png) no-repeat -116px 0;}
+
+.footer li.button a {background-color: #00CA7C; color: #FFF; font-size: 18px; text-align: center; padding: 10px 25px; text-decoration: none; line-height: 125%; }
+.footer li.button a:hover {background-color: #00DF87;}
+</style>
+</head>
+
+<body>
+<h1>İşlem Sinyalleri and kopya işlemler</h1>
+
+<p>Diğer yatırımcıların işlemlerini doğrudan platformunuza kopyalayın. Servis, farklı alım satım özelliklerine sahip binlerce ücretsiz ve ücretli sinyal içerir. Uygun bir  <a href="https://www.mql5.com/en/signals?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=tr.mail.signals" target="_blank">sağlayıcı seçin</a>, birkaç tıklamayla bir sinyale abone olun ve platformunuzun sağlayıcının işlemlerini otomatik olarak kopyalamasına izin verin.</p>
+
+<p class="image"><img src="https://c.mql5.com/external/emails/mt4/v1/signals-en.jpg" alt="MetaTrader'da işlem sinyalleri ve işlem kopyalama 4" title="MetaTrader'da işlem sinyalleri ve işlem kopyalama 4" width="747" height="502"></p>
+
+<p>Makaleyi <a href="https://www.mql5.com/en/articles/523?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=tr.mail.signals" target="_blank">okuyun</a> ve sinyale nasıl abone olunacağını öğrenin. Avantajlar ve servisin nasıl kullanılacağı hakkında daha fazla bilgi edinmek için, lütfen bu makaleyi <a href="https://www.mql5.com/en/articles/618?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=tr.mail.signals" target="_blank">okuyun.</a>.</p>
+
+<p>İşlem sinyalleri hakkındaki öğretici videolarıda <a target="_blank" href="https://youtu.be/ntu6pZRopq4?list=PLltlMLQ7OLeLZpxDnCMKz1tBlPcUminCT?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=tr.mail.signals">izleyebilir siniz.</a>. 15 dakika içinde sosyal işlemlerle ilgili her şeyi öğrenebilirsiniz.: Uygun bir sinyalin seçilmesi, işlem performansının analiz edilmesi, kopyalanan işlemlerin verimliliğinin değerlendirilmesi.</p>
+
+<p><a href="https://www.mql5.com/en/signals?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=tr.mail.signals" target="_blank">Uygun bir sinyal seçin</a> ve diğer yatırımcıların fiyatlarını kopyalayın!</p>
+
+
+<ul class="footer">
+<li class="button"><a href="https://www.mql5.com/en/signals?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=tr.mail.signals" target="_blank" title="Kopyalamak için bir işlem sinyali seçin">Sinyal seçin</a></li>
+</ul>
+</body></html>

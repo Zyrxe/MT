@@ -1,0 +1,47 @@
+<html>
+<!--SUBJECT=ซื้อโรบอทสำเร็จรูปและอินดิเคเตอร์จาก Market-->
+<head>
+<title>ซื้อโรบอทสำเร็จรูปและอินดิเคเตอร์จาก Market</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<style type="text/css">
+body { background-color: #ffffff; font-family: Tahoma, Arial, Helvetica, sans-serif; margin: 10px; color: #404040}
+p, pre, table, ul {font-size: 13px; font-family: Tahoma, Arial, Helvetica, sans-serif; margin: 0 0 10px 0; text-align: justify; line-height: 135%;}
+h1 {font-size: 25px; font-weight: normal; margin: 0 0 10px 0;} 
+a {color: #42639c;}
+p.image {text-align: center; margin: 20px 0;}
+p.image img {text-align: center; max-width: 100%; height: auto;}
+
+.table th {font-weight: normal; text-align: right; padding: 1px 2px 1px 0; }
+.table td {font-weight: bold; text-align: left; padding: 1px 2px; }
+
+.footer {display: block; list-style: none; overflow: hidden; padding: 0; margin: 0; text-align: center;}
+.footer li {display: inline-block; margin: 20px 15px; line-height: 100%; *display: inline; *zoom: 1;}
+.footer li a {display: inline-block; *display: inline; *zoom: 1;}
+
+.footer li.inline {width: 80px; text-align: center; }
+.footer li.inline a {padding: 70px 5px 5px 5px; text-align: center; }
+.footer li.inline.appstore a {background: url(https://c.mql5.com/external/emails/mt4/v1/icons.png) no-repeat 14px 0;}
+.footer li.inline.googleplay a {background: url(https://c.mql5.com/external/emails/mt4/v1/icons.png) no-repeat -116px 0;}
+
+.footer li.button a {background-color: #00CA7C; color: #FFF; font-size: 18px; text-align: center; padding: 10px 25px; text-decoration: none; line-height: 125%; }
+.footer li.button a:hover {background-color: #00DF87;}
+</style>
+</head>
+
+<body>
+<h1>ซื้อโรบอทสำเร็จรูปและอินดิเคเตอร์จาก Market</h1>
+
+<p>ไปที่<a target="_blank" href="https://www.mql5.com/en/market?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=th.mail.market">สโตร์ที่ใหญ่ที่สุดของแอปพลิเคชั่นการเทรด</a> เลือกผลิตภัณฑ์ที่คุณชอบและซื้อโดยตรงจากแพลตฟอร์ม เข้าถึงโรบอทการเทรดและอินดิเคเตอร์หลายพันแบบซึ่งสามารถนำคุณไปยังอีกระดับของการเทรด</p>
+
+<p>อินดิเคเตอร์จะช่วยคุณวิเคราะห์ตลาดจากมุมมองใหม่และโรบอทการเทรดจะทำการซื้อขายให้คุณโดยอัตโนมัติ ซื้อแอปพลิเคชั่นจาก Market ภายในไม่กี่คลิกและเริ่มใช้งานได้เลย</p>
+
+<p class="image"><img src="https://c.mql5.com/external/emails/mt4/v1/market2-en.jpg" alt="The MetaTrader 4 Market" title="The MetaTrader 4 Market" width="725" height="430"></p>
+
+<p>เพื่อเรียนรู้เกี่ยวกับ Market กรุณาอ่านบทความเรื่อง <a target="_blank" href="https://www.mql5.com/en/articles/498?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=th.mail.market">วิธีการซื้อโรบอทการเทรดและอินดิเคเตอร์ทางเทคนิค</a> คุณพร้อมที่จะซื้อแอปพลิเคชั่นหรือไม่? เรียนรู้ <a target="_blank" href="https://www.mql5.com/en/articles/586?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=th.mail.market">วิธีทดสอบโรบอทการเทรด</a> Market จะทำให้แน่ใจถึงกระบวนการซื้อที่ปลอดภัย อ่านเพิ่มเติมเกี่ยวกับความปลอดภัยในการชำระเงินใน <a target="_blank" href="https://www.mql5.com/en/articles/576?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=th.mail.market">บทความที่เกี่ยวข้อง</a></p>
+  
+<p>โรบอทการเทรดและอินดิเคเตอร์หลายพันแบบมีให้คุณใช้งานแล้วใน Market: ซื้อ เช่า หรือดาวโหลดได้ฟรี!</p>
+
+<ul class="footer">
+<li class="button"><a href="https://www.mql5.com/en/market?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=th.mail.market" target="_blank">ไปที่ Market</a></li>
+</ul>
+</body></html>

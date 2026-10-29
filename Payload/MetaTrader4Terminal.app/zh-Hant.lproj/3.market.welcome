@@ -1,0 +1,47 @@
+<html>
+<!--SUBJECT=從市場購買現有EA交易和指標-->
+<head>
+<title>從市場購買現有EA交易和指標</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<style type="text/css">
+body { background-color: #ffffff; font-family: Tahoma, Arial, Helvetica, sans-serif; margin: 10px; color: #404040}
+p, pre, table, ul {font-size: 13px; font-family: Tahoma, Arial, Helvetica, sans-serif; margin: 0 0 10px 0; text-align: justify; line-height: 135%;}
+h1 {font-size: 25px; font-weight: normal; margin: 0 0 10px 0;} 
+a {color: #42639c;}
+p.image {text-align: center; margin: 20px 0;}
+p.image img {text-align: center; max-width: 100%; height: auto;}
+
+.table th {font-weight: normal; text-align: right; padding: 1px 2px 1px 0; }
+.table td {font-weight: bold; text-align: left; padding: 1px 2px; }
+
+.footer {display: block; list-style: none; overflow: hidden; padding: 0; margin: 0; text-align: center;}
+.footer li {display: inline-block; margin: 20px 15px; line-height: 100%; *display: inline; *zoom: 1;}
+.footer li a {display: inline-block; *display: inline; *zoom: 1;}
+
+.footer li.inline {width: 80px; text-align: center; }
+.footer li.inline a {padding: 70px 5px 5px 5px; text-align: center; }
+.footer li.inline.appstore a {background: url(https://c.mql5.com/external/emails/mt4/v1/icons.png) no-repeat 14px 0;}
+.footer li.inline.googleplay a {background: url(https://c.mql5.com/external/emails/mt4/v1/icons.png) no-repeat -116px 0;}
+
+.footer li.button a {background-color: #00CA7C; color: #FFF; font-size: 18px; text-align: center; padding: 10px 25px; text-decoration: none; line-height: 125%; }
+.footer li.button a:hover {background-color: #00DF87;}
+</style>
+</head>
+
+<body>
+<h1>從市場購買現有EA交易和指標</h1>
+
+<p>進入<a target="_blank" href="https://www.mql5.com/zh/market?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=zh.mail.market">規模最大的交易應用商店</a>，選擇您喜歡的任何產品，然後從您的平臺上直接購買。訪問數以千計的EA交易和技術指標，將您的交易水準提升至一個新的層次。</p>
+
+<p>指標將幫助您從一個新的角度分析市場，EA交易將自動為您執行交易。只需幾次點擊，即可從市場購買任何應用程式，立即開始使用。</p>
+
+<p class="image"><img src="https://c.mql5.com/external/emails/mt4/v1/market2-en.jpg" alt="MetaTrader 4市場" title="MetaTrader 4市場" width="725" height="430"></p>
+
+<p>若要瞭解有關市場的更多資訊，請閱讀文章<a target="_blank" href="https://www.mql5.com/zh/articles/498?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=zh.mail.market">如何購買EA交易或技術指標</a>。您準備好購買應用程式嗎？瞭解<a target="_blank" href="https://www.mql5.com/zh/articles/586?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=zh.mail.market">如何測試EA交易</a>。市場功能可以確保一個安全的購買流程，在<a target="_blank" href="https://www.mql5.com/zh/articles/576?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=zh.mail.market">相關文章</a>中瞭解有關付款安全性的更多內容。</p>
+  
+<p>市場中現在共有數千種EA交易和指標可供您使用：購買、租用或免費下載！</p>
+
+<ul class="footer">
+<li class="button"><a href="https://www.mql5.com/zh/market?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=zh.mail.market" target="_blank">進入市場</a></li>
+</ul>
+</body></html>

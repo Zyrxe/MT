@@ -1,0 +1,53 @@
+<html>
+<!--SUBJECT=Chao mung!-->
+<head>
+<title>Chao mung!</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<style type="text/css">
+body { background-color: #ffffff; font-family: Tahoma, Arial, Helvetica, sans-serif; margin: 10px; color: #404040}
+p, pre, table, ul {font-size: 13px; font-family: Tahoma, Arial, Helvetica, sans-serif; margin: 0 0 10px 0; text-align: justify; line-height: 135%;}
+h1 {font-size: 25px; font-weight: normal; margin: 0 0 10px 0;} 
+a {color: #42639c;}
+p.image {text-align: center; margin: 20px 0;}
+p.image img {text-align: center; max-width: 100%; height: auto;}
+
+.table th {font-weight: normal; text-align: right; padding: 1px 2px 1px 0; }
+.table td {font-weight: bold; text-align: left; padding: 1px 2px; }
+
+.footer {display: block; list-style: none; overflow: hidden; padding: 0; margin: 0; text-align: center;}
+.footer li {display: inline-block; margin: 20px 15px; line-height: 100%; *display: inline; *zoom: 1;}
+.footer li a {display: inline-block; *display: inline; *zoom: 1;}
+
+.footer li.inline {width: 80px; text-align: center; }
+.footer li.inline a {padding: 70px 5px 5px 5px; text-align: center; }
+.footer li.inline.appstore a {background: url(https://c.mql5.com/external/emails/mt4/v1/icons.png) no-repeat 14px 0;}
+.footer li.inline.googleplay a {background: url(https://c.mql5.com/external/emails/mt4/v1/icons.png) no-repeat -116px 0;}
+
+.footer li.button a {background-color: #00CA7C; color: #FFF; font-size: 18px; text-align: center; padding: 10px 25px; text-decoration: none; line-height: 125%; }
+.footer li.button a:hover {background-color: #00DF87;}
+</style>
+</head>
+
+<body>
+<h1>Chao mung!</h1>
+
+<p>Ban da chon phan mem giao dich manh voi nhieu tinh nang tuyet voi. Thuc hien viec giao dich ngay bay gio, <a target="_blank" href="https://www.mql5.com/en/signals?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=vi.mail.welcome">sao chep giao dich</a> cua trader khac, mua cac robot co san tu <a target="_blank" href="https://www.mql5.com/en/market?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=vi.mail.welcome">Thi Truong</a> va dat mua cac ung dung giao dich voi cac tinh nang dang mong doi tu cac <a target="_blank" href="https://www.mql5.com/en/job?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=vi.mail.welcome">ben phat trien giau kinh nghiem</a>.</p>
+
+<p class="image"><img src="https://c.mql5.com/external/emails/mt4/v1/welcome2-en.jpg" alt="The MetaTrader 4 trading platform" title="The MetaTrader 4 trading platform" width="750" height="486"></p>
+
+<p>Cac tinh nang cua phan mem:</p>
+
+<ul class="advantages">
+ <li>Tat ca cac loai lenh giao dich</li>
+ <li>30chi so ky thuat va 24 cong cu phan tich</li>
+ <li>9 khung thoi gian cho bieu do, tu mot phut den mot thang</li>
+ <li>Moi truong phat trien MQL5, noi ban co the tao cac robot giao dich, cac chi so ky thuat tuy bien va cac ung dung giao dich khac</li>
+ <li><a target="_blank" href="https://www.mql5.com/en/market?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=vi.mail.welcome">Kho ung dung giao dich</a> lon nhat noi ban co the mua cac robot giao dich co san va cac chi so</li>
+ <li>Dich vu <a target="_blank" href="https://www.mql5.com/en/signals?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=vi.mail.welcome">Trading Signal</a> cho phep ban ket noi den trader khac va sao chep giao dich cua ho</li>
+ <li>Dich vu <a target="_blank" href="https://www.mql5.com/en/vps?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=vi.mail.welcome">May Chu Ao</a> hoat dong 24/7 cho robot giao dich va signal</li>
+ <li>Dich vu <a target="_blank" href="https://www.mql5.com/en/job?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=vi.mail.welcome">Freelance</a> tien lon oi ban co the dat hang cac robot giao dich tu cac ben phat trien chuyen nghiep</li>
+<li>Ung dung mobile cho <a target="_blank" href="https://download.mql5.com/cdn/mobile/mt4/ios?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=vi.mail.welcome">iOS</a> va <a target="_blank" href="https://download.mql5.com/cdn/mobile/mt4/android?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=vi.mail.welcome">Android</a></li>
+</ul>
+
+<p>Su dung tinh nang nay de tang cuong kinh nghiem giao dich cua ban!</p>
+</body></html>

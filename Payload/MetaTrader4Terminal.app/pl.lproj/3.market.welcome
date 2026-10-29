@@ -1,0 +1,47 @@
+<html>
+<!--SUBJECT=Kup gotowe roboty i wskaźniki w Market-->
+<head>
+<title>Kup gotowe roboty i wskaźniki w Market</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<style type="text/css">
+body { background-color: #ffffff; font-family: Tahoma, Arial, Helvetica, sans-serif; margin: 10px; color: #404040}
+p, pre, table, ul {font-size: 13px; font-family: Tahoma, Arial, Helvetica, sans-serif; margin: 0 0 10px 0; text-align: justify; line-height: 135%;}
+h1 {font-size: 25px; font-weight: normal; margin: 0 0 10px 0;} 
+a {color: #42639c;}
+p.image {text-align: center; margin: 20px 0;}
+p.image img {text-align: center; max-width: 100%; height: auto;}
+
+.table th {font-weight: normal; text-align: right; padding: 1px 2px 1px 0; }
+.table td {font-weight: bold; text-align: left; padding: 1px 2px; }
+
+.footer {display: block; list-style: none; overflow: hidden; padding: 0; margin: 0; text-align: center;}
+.footer li {display: inline-block; margin: 20px 15px; line-height: 100%; *display: inline; *zoom: 1;}
+.footer li a {display: inline-block; *display: inline; *zoom: 1;}
+
+.footer li.inline {width: 80px; text-align: center; }
+.footer li.inline a {padding: 70px 5px 5px 5px; text-align: center; }
+.footer li.inline.appstore a {background: url(https://c.mql5.com/external/emails/mt4/v1/icons.png) no-repeat 14px 0;}
+.footer li.inline.googleplay a {background: url(https://c.mql5.com/external/emails/mt4/v1/icons.png) no-repeat -116px 0;}
+
+.footer li.button a {background-color: #00CA7C; color: #FFF; font-size: 18px; text-align: center; padding: 10px 25px; text-decoration: none; line-height: 125%; }
+.footer li.button a:hover {background-color: #00DF87;}
+</style>
+</head>
+
+<body>
+<h1>Kup gotowe roboty i wskaźniki w Market</h1>
+
+<p>Odwiedź <a target="_blank" href="https://www.mql5.com/en/market?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=pl.mail.market">największy sklep aplikacji handlowych</a>, wybierz dowolny produkt i zakup go bezpośrednio ze swojej platformy. Uzyskaj dostęp do tysięcy robotów handlowych i wskaźników technicznych, dzięki którym twój handel osiągnie nowy poziom.</p>
+
+<p>Wskaźniki pomogą Ci zanalizować rynek z nowej perspektywy, a roboty handlowe automatycznie wykonają transakcje za Ciebie. Kup dowolną aplikację z Marketu za pomocą kilku kliknięć i zacznij ją używać od razu.</p>
+
+<p class="image"><img src="https://c.mql5.com/external/emails/mt4/v1/market2-en.jpg" alt="Market MetaTrader 4" title="Market MetaTrader 4" width="725" height="430"></p>
+
+<p>Aby dowiedzieć się więcej o Market, przeczytaj artykuł <a target="_blank" href="https://www.mql5.com/en/articles/498?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=pl.mail.market">jak kupić robota handlowego lub wskaźnik techniczny</a>. Jesteś gotowy na zakup aplikacji? Dowiedz się <a target="_blank" href="https://www.mql5.com/en/articles/586?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=pl.mail.market">jak testować roboty handlowe</a>. Market zapewnia bezpieczną procedurę zakupów, przeczytaj więcej o bezpieczeństwie płatności w <a target="_blank" href="https://www.mql5.com/en/articles/576?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=pl.mail.market">tym artykule</a>.</p>
+  
+<p>Tysiące robotów handlowych i wskaźników są już dostępne w Market: kupuj, wypożyczaj lub pobieraj za darmo!</p>
+
+<ul class="footer">
+<li class="button"><a href="https://www.mql5.com/en/market?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=pl.mail.market" target="_blank">Przejdź do Market</a></li>
+</ul>
+</body></html>

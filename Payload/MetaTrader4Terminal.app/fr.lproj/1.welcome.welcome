@@ -1,0 +1,53 @@
+<html>
+<!--SUBJECT=Bienvenue !-->
+<head>
+<title>Bienvenue !</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<style type="text/css">
+body { background-color: #ffffff; font-family: Tahoma, Arial, Helvetica, sans-serif; margin: 10px; color: #404040}
+p, pre, table, ul {font-size: 13px; font-family: Tahoma, Arial, Helvetica, sans-serif; margin: 0 0 10px 0; text-align: justify; line-height: 135%;}
+h1 {font-size: 25px; font-weight: normal; margin: 0 0 10px 0;} 
+a {color: #42639c;}
+p.image {text-align: center; margin: 20px 0;}
+p.image img {text-align: center; max-width: 100%; height: auto;}
+
+.table th {font-weight: normal; text-align: right; padding: 1px 2px 1px 0; }
+.table td {font-weight: bold; text-align: left; padding: 1px 2px; }
+
+.footer {display: block; list-style: none; overflow: hidden; padding: 0; margin: 0; text-align: center;}
+.footer li {display: inline-block; margin: 20px 15px; line-height: 100%; *display: inline; *zoom: 1;}
+.footer li a {display: inline-block; *display: inline; *zoom: 1;}
+
+.footer li.inline {width: 80px; text-align: center; }
+.footer li.inline a {padding: 70px 5px 5px 5px; text-align: center; }
+.footer li.inline.appstore a {background: url(https://c.mql5.com/external/emails/mt4/v1/icons.png) no-repeat 14px 0;}
+.footer li.inline.googleplay a {background: url(https://c.mql5.com/external/emails/mt4/v1/icons.png) no-repeat -116px 0;}
+
+.footer li.button a {background-color: #00CA7C; color: #FFF; font-size: 18px; text-align: center; padding: 10px 25px; text-decoration: none; line-height: 125%; }
+.footer li.button a:hover {background-color: #00DF87;}
+</style>
+</head>
+
+<body>
+<h1>Bienvenue !</h1>
+
+<p>Vous avez choisi une plateforme de trading polyvalente et puissante. Effectuez des opérations de trading , <a target="_blank" href="https://www.mql5.com/en/signals?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=fr.mail.welcome">copiez les transactions</a> d'autres traders, achetez des robots prêts-à-l'emploi sur le <a target="_blank" href="https://www.mql5.com/en/market?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=fr.mail.welcome">Market</a> ou commandez des applications de trading répondant à vos propres besoins auprès de <a target="_blank" href="https://www.mql5.com/en/job?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=fr.mail.welcome">développeurs expérimentés</a>.</p>
+
+<p class="image"><img src="https://c.mql5.com/external/emails/mt4/v1/welcome2-en.jpg" alt="La plateforme de trading MetaTrader 4" title="La plateforme de trading MetaTrader 4" width="750" height="486"></p>
+
+<p>Les fonctionnalités de la plateforme :</p>
+
+<ul class="advantages">
+ <li>Tous les types d'ordres de trading</li>
+ <li>30 indicateurs techniques et 24 outils d'analyse</li>
+ <li>9 périodes de graphique, de 1 minute à 1 mois</li>
+ <li>L'environnement de développement MQL5 où vous pouvez créer des robots de trading, des indicateurs techniques personnels et d'autres applications de trading</li>
+ <li>La plus grande <a target="_blank" href="https://www.mql5.com/en/market?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=fr.mail.welcome">boutique d'apps de trading</a> où vous pouvez acheter des robots de trading et des indicateurs prêts à l'emploi</li>
+ <li>Le service <a target="_blank" href="https://www.mql5.com/en/signals?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=fr.mail.welcome">Trading Signals</a>, qui vous permet de vous connecter à d'autres traders et de copier leurs transactions</li>
+ <li>Le service <a target="_blank" href="https://www.mql5.com/en/vps?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=fr.mail.welcome">intégré d'Hébergement Virtuel</a> pour une utilisation 24/7 de vos robots de trading et de vos abonnements à des signaux</li>
+ <li>Le pratique <a target="_blank" href="https://www.mql5.com/en/job?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=fr.mail.welcome">service Freelance</a> d'où vous pouvez commander un robot de trading aurpès d'un développeur professionnel</li>
+<li>Applications mobiles pour <a target="_blank" href="https://download.mql5.com/cdn/mobile/mt4/ios?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=fr.mail.welcome">iOS</a> et <a target="_blank" href="https://download.mql5.com/cdn/mobile/mt4/android?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=fr.mail.welcome">Android</a></li>
+</ul>
+
+<p>Utilisez cette fonctionnalité sans équivalent pour améliorer votre expérience du trading !</p>
+</body></html>

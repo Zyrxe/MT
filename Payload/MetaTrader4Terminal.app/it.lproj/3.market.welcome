@@ -1,0 +1,47 @@
+<html>
+<!--SUBJECT=Acquista robot pronti e indicatori dal Market-->
+<head>
+<title>Acquista robot pronti e indicatori dal Market</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<style type="text/css">
+body { background-color: #ffffff; font-family: Tahoma, Arial, Helvetica, sans-serif; margin: 10px; color: #404040}
+p, pre, table, ul {font-size: 13px; font-family: Tahoma, Arial, Helvetica, sans-serif; margin: 0 0 10px 0; text-align: justify; line-height: 135%;}
+h1 {font-size: 25px; font-weight: normal; margin: 0 0 10px 0;} 
+a {color: #42639c;}
+p.image {text-align: center; margin: 20px 0;}
+p.image img {text-align: center; max-width: 100%; height: auto;}
+
+.table th {font-weight: normal; text-align: right; padding: 1px 2px 1px 0; }
+.table td {font-weight: bold; text-align: left; padding: 1px 2px; }
+
+.footer {display: block; list-style: none; overflow: hidden; padding: 0; margin: 0; text-align: center;}
+.footer li {display: inline-block; margin: 20px 15px; line-height: 100%; *display: inline; *zoom: 1;}
+.footer li a {display: inline-block; *display: inline; *zoom: 1;}
+
+.footer li.inline {width: 80px; text-align: center; }
+.footer li.inline a {padding: 70px 5px 5px 5px; text-align: center; }
+.footer li.inline.appstore a {background: url(https://c.mql5.com/external/emails/mt4/v1/icons.png) no-repeat 14px 0;}
+.footer li.inline.googleplay a {background: url(https://c.mql5.com/external/emails/mt4/v1/icons.png) no-repeat -116px 0;}
+
+.footer li.button a {background-color: #00CA7C; color: #FFF; font-size: 18px; text-align: center; padding: 10px 25px; text-decoration: none; line-height: 125%; }
+.footer li.button a:hover {background-color: #00DF87;}
+</style>
+</head>
+
+<body>
+<h1>Acquista robot pronti e indicatori dal Market</h1>
+
+<p>Vai al <a target="_blank" href="https://www.mql5.com/en/market?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=it.mail.market">il più grande negozio di applicazioni di trading</a>, scegli qualsiasi prodotto che ti piace ed acquistalo direttamente dalla tua piattaforma. Accedi a migliaia di robot di trading e indicatori tecnici che possono portare il tuo trading ad un nuovo livello.</p>
+
+<p>Gli indicatori ti aiuteranno ad analizzare il mercato da una nuova prospettiva ed i robot di trading eseguiranno automaticamente i deals per te. Acquista qualsiasi applicazione dal Market in pochi clic ed inizia a usarla subito.</p>
+
+<p class="image"><img src="https://c.mql5.com/external/emails/mt4/v1/market2-en.jpg" alt="Il mercato MetaTrader 4" title="Il mercato MetaTrader 4" width="725" height="430"></p>
+
+<p>Per saperne di più sul Market, leggi l'articolo su <a target="_blank" href="https://www.mql5.com/en/articles/498?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=it.mail.market">come comprare un trading robot o un indicatore tecnico</a>. Sei pronto per acquistare un'applicazione? Impara <a target="_blank" href="https://www.mql5.com/en/articles/586?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=it.mail.market">come testare robot di trading</a>. Il Market garantisce una procedura di acquisto sicura, maggiori informazioni sulla sicurezza dei pagamenti nell' <a target="_blank" href="https://www.mql5.com/en/articles/576?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=it.mail.market">articolo correlato</a>.</p>
+  
+<p>Migliaia di robot ed indicatori di trading sono ora disponibili per te sul Market: acquistali, noleggiali o scaricali gratuitamente!</p>
+
+<ul class="footer">
+<li class="button"><a href="https://www.mql5.com/en/market?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=it.mail.market" target="_blank">Vai al Market</a></li>
+</ul>
+</body></html>

@@ -1,0 +1,56 @@
+<html>
+<!--SUBJECT=Добро пожаловать!-->
+<head>
+<title>Добро пожаловать!</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<style type="text/css">
+body { background-color: #ffffff; font-family: Tahoma, Arial, Helvetica, sans-serif; margin: 10px; color: #404040}
+p, pre, table, ul {font-size: 13px; font-family: Tahoma, Arial, Helvetica, sans-serif; margin: 0 0 10px 0; text-align: justify; line-height: 135%;}
+h1 {font-size: 25px; font-weight: normal; margin: 0 0 10px 0;} 
+a {color: #42639c;}
+p.image {text-align: center; margin: 20px 0;}
+p.image img {text-align: center; max-width: 100%; height: auto;}
+
+.table th {font-weight: normal; text-align: right; padding: 1px 2px 1px 0; }
+.table td {font-weight: bold; text-align: left; padding: 1px 2px; }
+
+.footer {display: block; list-style: none; overflow: hidden; padding: 0; margin: 0; text-align: center;}
+.footer li {display: inline-block; margin: 20px 15px; line-height: 100%; *display: inline; *zoom: 1;}
+.footer li a {display: inline-block; *display: inline; *zoom: 1;}
+
+.footer li.inline {width: 80px; text-align: center; }
+.footer li.inline a {padding: 70px 5px 5px 5px; text-align: center; }
+.footer li.inline.appstore a {background: url(https://c.mql5.com/external/emails/mt4/v1/icons.png) no-repeat 14px 0;}
+.footer li.inline.googleplay a {background: url(https://c.mql5.com/external/emails/mt4/v1/icons.png) no-repeat -116px 0;}
+
+.footer li.button a {background-color: #00CA7C; color: #FFF; font-size: 18px; text-align: center; padding: 10px 25px; text-decoration: none; line-height: 125%; }
+.footer li.button a:hover {background-color: #00DF87;}
+</style>
+</head>
+
+<body>
+<h1>Добро пожаловать!</h1>
+
+<p>В вашем распоряжении мощная торговая платформа с широкими возможностями. Совершайте торговые операции, <a target="_blank" href="https://www.mql5.com/ru/signals?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=ru.mail.welcome">повторяйте
+ сделки</a> других трейдеров, покупайте готовых роботов в <a target="_blank" href="https://www.mql5.com/ru/market?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=ru.mail.welcome">Маркете</a> или заказывайте торговые приложения с нужными характеристиками у <a target="_blank" href="https://www.mql5.com/ru/job?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=ru.mail.welcome">опытных
+ разработчиков</a>.</p>
+
+<p class="image"><img src="https://c.mql5.com/external/emails/mt4/v1/welcome2-ru.jpg" alt="Торговая платформа MetaTrader 4" title="Торговая платформа MetaTrader 4" width="750" height="486"></p>
+
+<p>Вместе с платформой вы получаете:</p>
+
+<ul class="advantages">
+ <li>Все виды торговых ордеров</li>
+ <li>30 технических индикаторов и 24 аналитических инструментов</li>
+ <li>9 временных периодов графиков — от минутного до месячного</li>
+ <li>Собственная среда разработки MQL5, позволяющая создавать торговых роботов, пользовательские технические индикаторы и другие торговые приложения</li>
+ <li>Крупнейший <a target="_blank" href="https://www.mql5.com/ru/market?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=ru.mail.welcome">магазин
+   торговых приложений</a>, в котором можно быстро и безопасно купить готового робота или индикатор</li>
+ <li><a target="_blank" href="https://www.mql5.com/ru/signals?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=ru.mail.welcome">Сервис торговых сигналов</a>, позволяющий подключаться к другим трейдерам и копировать их сделки</li>
+ <li><a target="_blank" href="https://www.mql5.com/ru/vps?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=ru.mail.welcome">Встроенный виртуальный хостинг</a> для бесперебойной работы ваших роботов и подписок на сигналы</li>
+ <li>Удобный <a target="_blank" href="https://www.mql5.com/ru/job?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=ru.mail.welcome">фриланс-сервис</a> для заказа торговых роботов у профессиональных разработчиков — в короткие сроки и по разумным ценам</li>
+<li>Мобильные платформы для <a target="_blank" href="https://download.mql5.com/cdn/mobile/mt4/ios?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=ru.mail.welcome">iOS</a> и <a target="_blank" href="https://download.mql5.com/cdn/mobile/mt4/android?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=ru.mail.welcome">Android</a></li>
+</ul>
+
+<p>Используйте эти возможности для улучшения своего трейдинга!</p>
+</body></html>

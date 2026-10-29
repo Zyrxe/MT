@@ -1,0 +1,48 @@
+<html>
+<!--SUBJECT=Trading Signals and copy trading-->
+<head>
+<title>Trading Signals and copy trading</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<style type="text/css">
+body { background-color: #ffffff; font-family: Tahoma, Arial, Helvetica, sans-serif; margin: 10px; color: #404040}
+p, pre, table, ul {font-size: 13px; font-family: Tahoma, Arial, Helvetica, sans-serif; margin: 0 0 10px 0; text-align: justify; line-height: 135%;}
+h1 {font-size: 25px; font-weight: normal; margin: 0 0 10px 0;} 
+a {color: #42639c;}
+p.image {text-align: center; margin: 20px 0;}
+p.image img {text-align: center; max-width: 100%; height: auto;}
+
+.table th {font-weight: normal; text-align: right; padding: 1px 2px 1px 0; }
+.table td {font-weight: bold; text-align: left; padding: 1px 2px; }
+
+.footer {display: block; list-style: none; overflow: hidden; padding: 0; margin: 0; text-align: center;}
+.footer li {display: inline-block; margin: 20px 15px; line-height: 100%; *display: inline; *zoom: 1;}
+.footer li a {display: inline-block; *display: inline; *zoom: 1;}
+
+.footer li.inline {width: 80px; text-align: center; }
+.footer li.inline a {padding: 70px 5px 5px 5px; text-align: center; }
+.footer li.inline.appstore a {background: url(https://c.mql5.com/external/emails/mt4/v1/icons.png) no-repeat 14px 0;}
+.footer li.inline.googleplay a {background: url(https://c.mql5.com/external/emails/mt4/v1/icons.png) no-repeat -116px 0;}
+
+.footer li.button a {background-color: #00CA7C; color: #FFF; font-size: 18px; text-align: center; padding: 10px 25px; text-decoration: none; line-height: 125%; }
+.footer li.button a:hover {background-color: #00DF87;}
+</style>
+</head>
+
+<body>
+<h1>Trading Signals and copy trading</h1>
+
+<p>Copy other traders' deals straight from your platform. The service features thousands of free and paid signals with different trading characteristics. Select a suitable <a href="https://www.mql5.com/en/signals?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=en.mail.signals" target="_blank">provider</a>, subscribe to a signal in a couple of clicks, and let your platform automatically copy the provider's trades.</p>
+
+<p class="image"><img src="https://c.mql5.com/external/emails/mt4/v1/signals-en.jpg" alt="Trading signals and copy trading in MetaTrader 4" title="Trading signals and copy trading in MetaTrader 4" width="747" height="502"></p>
+
+<p>Read the <a href="https://www.mql5.com/en/articles/523?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=en.mail.signals" target="_blank">article</a> to learn how to subscribe to a signal. To find out more about the advantages and how to use the service, please read <a href="https://www.mql5.com/en/articles/618?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=en.mail.signals" target="_blank">this article</a>.</p>
+
+<p>You can also watch the <a target="_blank" href="https://youtu.be/ntu6pZRopq4?list=PLltlMLQ7OLeLZpxDnCMKz1tBlPcUminCT?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=en.mail.signals">tutorial videos about trading signals</a>. In 15 minutes, you can find out everything about social trading: how to select a suitable signal, analyze its trade performance, subscribe and evaluate the efficiency of copied trades.</p>
+
+<p><a href="https://www.mql5.com/en/signals?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=en.mail.signals" target="_blank">Select a suitable signal</a> and copy other traders' deals!</p>
+
+
+<ul class="footer">
+<li class="button"><a href="https://www.mql5.com/en/signals?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=en.mail.signals" target="_blank" title="Select a trading signal to copy">Choose a signal</a></li>
+</ul>
+</body></html>

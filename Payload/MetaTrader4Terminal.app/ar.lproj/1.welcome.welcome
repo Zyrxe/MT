@@ -1,0 +1,53 @@
+<html>
+<!--SUBJECT=مرحبًا!-->
+<head>
+<title>مرحبًا!</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<style type="text/css">
+body { background-color: #ffffff; font-family: Tahoma, Arial, Helvetica, sans-serif; margin: 10px; color: #404040}
+p, pre, table, ul {font-size: 13px; font-family: Tahoma, Arial, Helvetica, sans-serif; margin: 0 0 10px 0; text-align: justify; line-height: 135%;}
+h1 {font-size: 25px; font-weight: normal; margin: 0 0 10px 0;} 
+a {color: #42639c;}
+p.image {text-align: center; margin: 20px 0;}
+p.image img {text-align: center; max-width: 100%; height: auto;}
+
+.table th {font-weight: normal; text-align: right; padding: 1px 2px 1px 0; }
+.table td {font-weight: bold; text-align: left; padding: 1px 2px; }
+
+.footer {display: block; list-style: none; overflow: hidden; padding: 0; margin: 0; text-align: center;}
+.footer li {display: inline-block; margin: 20px 15px; line-height: 100%; *display: inline; *zoom: 1;}
+.footer li a {display: inline-block; *display: inline; *zoom: 1;}
+
+.footer li.inline {width: 80px; text-align: center; }
+.footer li.inline a {padding: 70px 5px 5px 5px; text-align: center; }
+.footer li.inline.appstore a {background: url(https://c.mql5.com/external/emails/mt4/v1/icons.png) no-repeat 14px 0;}
+.footer li.inline.googleplay a {background: url(https://c.mql5.com/external/emails/mt4/v1/icons.png) no-repeat -116px 0;}
+
+.footer li.button a {background-color: #00CA7C; color: #FFF; font-size: 18px; text-align: center; padding: 10px 25px; text-decoration: none; line-height: 125%; }
+.footer li.button a:hover {background-color: #00DF87;}
+</style>
+</head>
+
+<body style="direction: rtl">
+<h1>مرحبًا!</h1>
+
+<p>لقد اخترت منصة تداول متعددة الاستخدامات وقوية. قم بتنفيذ عمليات التداول، <a target="_blank" href="https://www.mql5.com/en/signals?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=ar.mail.welcome"> نسخ صفقات </a>المتداولين الآخرين، وشراء الروبوتات الجاهزة للاستخدام من <a target="_blank" href="https://www.mql5.com/en/market?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=ar.mail.welcome">السوق</a> أو قم بطلب تطبيقات التداول بالميزات المطلوبة من <a target="_blank" href="https://www.mql5.com/en/job?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=ar.mail.welcome"> المطورين ذوي الخبرة</a>.</p>
+
+<p class="image"><img src="https://c.mql5.com/external/emails/mt4/v1/welcome2-en.jpg" alt="منصة تداول MetaTrader 4" title="منصة تداول MetaTrader 4" width="750" height="486"></p>
+
+<p>ميزات المنصة:</p>
+
+<ul class="advantages">
+ <li>جميع أنواع طلبات التداول</li>
+ <li>30 المؤشرات الفنية و24 الأدوات التحليلية</li>
+ <li>9 الجداول الزمنية للرسم، من دقيقة واحدة إلى شهر واحد</li>
+ <li>بيئة تطوير MQL5 حيث يمكنك إنشاء روبوتات التداول والمؤشرات الفنية المخصصة وتطبيقات التداول الأخرى</li>
+ <li>أكبر <a target="_blank" href="https://www.mql5.com/en/market?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=ar.mail.welcome">متجر لتطبيقات التداول</a> حيث يمكنك شراء روبوتات التداول والمؤشرات الجاهزة للاستخدام</li>
+ <li>خدمة <a target="_blank" href="https://www.mql5.com/en/signals?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=ar.mail.welcome">إشارات التداول</a>، والتي تسمح لك بالاتصال بالتجار الآخرين ونسخ صفقاتهم</li>
+ <li>خدمة<a target="_blank" href="https://www.mql5.com/en/vps?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=ar.mail.welcome">استضافة افتراضية مدمجة</a> لتشغيل روبوتات التداول واشتراكات الإشارة الخاصة بك 24/7</li>
+ <li><a target="_blank" href="https://www.mql5.com/en/job?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=ar.mail.welcome">خدمة المستقلين</a> المريحة، حيث يمكنك طلب روبوت تداول من مطور محترف</li>
+<li>تطبيقات الجوال لـ <a target="_blank" href="https://download.mql5.com/cdn/mobile/mt4/ios?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=ar.mail.welcome">iOS</a> و<a target="_blank" href="https://download.mql5.com/cdn/mobile/mt4/android?utm_source=mt4ios&amp;utm_medium=special&amp;utm_campaign=ar.mail.welcome">أندرويد</a></li>
+</ul>
+
+<p>استخدم هذه الوظيفة التي ليس لها مثيل لتحسين تجربة التداول الخاصة بك!</p>
+</body></html>
